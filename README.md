@@ -73,5 +73,5 @@
 
 ## Modelo entidade relacionamento
 - Clique na imagem para acessar mais detalhes sobre o modelo entidade relacionamento
-[![Documentação](diagrama/diagrama.JPG)](modelo-entidade-relacionamento/)
+[![Documentação](diagrama/diagrama.JPG)](diagrama/)
 
