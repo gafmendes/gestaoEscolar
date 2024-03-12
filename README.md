@@ -19,43 +19,45 @@
 
 ## Lista de funcionalidade do sistema
 
-### Usuário
+### Usuário Pessoa Física
 
-- `RF-001`	Criar usuário:	criação de usuário com informações de pk, pwd e email
+- `RF-001`	Cadastrar usuário Pessoa Física:	cadastrar de usuário aluno com informações de nome, cpf e endereço
 
-- `RF-002`	Editar usuário:	editar informações do usuário
+- `RF-002`	Atualizar usuário Pessoa Física:	atualizar informações do usuário Pessoa Física
 
-- `RF-003`	Deletar usuário:	deletar usuário
-
-
-### Conta
-
-- `RF-004`	Criar conta:	criação de conta com dados do perfil (nome, idade, instituição, curso, etc)
-
-- `RF-005`	Editar conta:	editar informações da conta
-
-- `RF-006`	Deletar conta:	deletar conta
+- `RF-003`	Excluir usuário Pessoa Física:	excluir usuário Pessoa Física
 
 
-### Postagem
+### Usuário Pessoa Jurídica
 
-- `RF-007`	Consultar conta:	pesquisar perfis de usuário
+- `RF-004`	Criar usuário Pessoa Jurídica:	cadastrar de conta com dados do perfil (nome, cnpj, endereço, tipo de serviço prestado, informações adicionais)
 
-- `RF-008`	Criar postagem:	criar nova postagem
+- `RF-005`	Atualizar usuário Pessoa Jurídica:	atualizar informações do usuário Pessoa Jurídica
 
-- `RF-009`	Deletar postagem:	deletar postagem
-
-- `RF-010`	Curtir postagem:	a conta poderá curtir postagem
-
-- `RF-011`	Listar postagens (feed):	o usuário terá acesso ao feed com postagens de outros usuários vínculados a ele
+- `RF-006`	Excluir usuário Pessoa Jurídica:	excluir usuário Pessoa Jurídica
 
 
-### Chat
+### Usuário Aluno
 
-- `RF-012`	Abrir um nova conversa:	o usuário poderá iniciar um novo chat
+- `RF-007`	Adicionar disciplina:	adicionar disciplina ao usuário Aluno
 
-- `RF-013`	Enviar mensagem:	o usuário poderá enviar e receber mensagens pelo chat
+- `RF-008`	Matricular Aluno:	matricular o usuário Aluno à disciplina ofertada ao usuário Aluno em determinada matéria
 
+- `RF-009`	Supender Matrícula Alun:	suspender a matrícula do usuário Aluno em determinada matéria
+
+
+### Usuário Professor
+
+- `RF-010`	Associar disciplina:	associar uma disciplina e/ou uma turma ao usuário Professor para ministrar aula
+
+- `RF-011`	Atualizar disciplina:	atualizar uma disciplina e/ou uma turma ao usuário Professor para ministrar aula
+
+
+### Usuário Fornecedor
+
+- `RF-010`	Atualizar detalhes:	atualizar detalhes do usuário Fornecedor
+
+- `RF-011`	Remover Fornecedor:	remover usuário Fornecedor
 
 ### 🚧 Versão 1.0.0 🚧
 
