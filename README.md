@@ -1,4 +1,4 @@
-<h1>:computer: Rede social
+<h1>:computer: Sistema de Gestão Escolar
   <img align="right" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </h1>
 
