@@ -65,9 +65,8 @@
 ## :pencil: Protótipo
 
 - Clique aqui para acessar o [`Figma`](https://www.figma.com/file/uPcBwP8cgWpLa4aJrI6XVQ/Untitled?type=design&node-id=1%3A44&mode=design&t=IMbPR79ozpXyxiof-1)
-- Clique aqui para testar o [`Protótipo`]([https://www.figma.com/proto/HrgD9hKKwYOOyywwUWo0Vg/Untitled?type=design&node-id=2-3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A3](https://www.figma.com/proto/uPcBwP8cgWpLa4aJrI6XVQ/Untitled?type=design&node-id=1-44&t=kv5lFyUZnnEoOwwX-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A44&show-proto-sidebar=1&mode=design))
-- Clique na imagem abaixo para visualizar todas as telas prototipadas
-[![Documentação](prototipagem/Login.png)](prototipagem/)
+- Clique aqui para testar o [`Protótipo`](https://www.figma.com/proto/uPcBwP8cgWpLa4aJrI6XVQ/Untitled?type=design&node-id=1-44&t=6fGVyRUtMHKQZUVG-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A44&show-proto-sidebar=1&mode=design)
+
 
 <hr>
 
