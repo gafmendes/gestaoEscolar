@@ -55,9 +55,9 @@
 
 ### Usuário Fornecedor
 
-- `RF-010`	Atualizar detalhes:	atualizar detalhes do usuário Fornecedor
+- `RF-012`	Atualizar detalhes:	atualizar detalhes do usuário Fornecedor
 
-- `RF-011`	Remover Fornecedor:	remover usuário Fornecedor
+- `RF-013`	Remover Fornecedor:	remover usuário Fornecedor
 
 ### 🚧 Versão 1.0.0 🚧
 
